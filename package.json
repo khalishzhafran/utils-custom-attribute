@@ -1,0 +1,9 @@
+{
+  "name": "com.ran-utils.custom-attribute",
+  "version": "1.0.0",
+  "displayName": "Ran Utils - Custom Attribute",
+  "description": "A collection of custom attribute utilities for Unity.",
+  "unity": "6000.2",
+  "unityRelease": "6f2",
+  "author": "khalishzhafran"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "com.ran-utils.custom-attribute.Editor",
+  "rootNamespace": "ran.utilities",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
