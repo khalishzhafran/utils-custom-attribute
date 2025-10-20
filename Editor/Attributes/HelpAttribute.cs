@@ -1,4 +1,15 @@
-// Author   : Litsch
+// ------------------------------------------------------------------------------
+//  File: HelpAttribute.cs
+//  Author: Ran
+//  Description: Attribute to show a help box in the inspector.
+//  Created: 2025
+//  
+//  Copyright (c) 2025 Ran.
+//  This script is part of the ran.utilities namespace.
+//  Permission is granted to use, modify, and distribute this file freely
+//  for both personal and commercial projects, provided that this notice
+//  remains intact.
+// ------------------------------------------------------------------------------
 
 #if UNITY_EDITOR
 using UnityEditor;
